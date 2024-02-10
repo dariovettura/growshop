@@ -440,6 +440,7 @@ input {
 button,
 select {
     text-transform: none;
+   color: #191d18
 }
 
 /**

@@ -105,6 +105,13 @@ div:has(> input[type="checkbox"]) {
 
 @media only screen and (max-width: 480px) {
   /* insert styles here */
+  .intro-container{
+    flex-direction: column;
+    padding: 10px;
+  }
+  .intro-foto{
+    flex-basis: unset;
+  }
 }
 
 /* ==========================================================================
